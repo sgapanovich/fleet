@@ -4,7 +4,7 @@
 
 deployment:
   name: sergei
-  replicas: 1
+  replicas: 2
 
 label: sergei
 
