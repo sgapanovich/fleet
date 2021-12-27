@@ -1,6 +1,6 @@
 apiVersion: v2
-name: sergeichart
-description: A Helm chart for Kubernetes
+name: sergeifleet
+description: Sergei fleet 
 
 # A chart can be either an 'application' or a 'library' chart.
 #
