@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 deployment:
-  name: sergeiwfleet
+  name: sergeifleet
   replicas: 1
 
 label: sergeifleet
