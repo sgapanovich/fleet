@@ -10,7 +10,7 @@ label: sergeifleet
 
 container:
   name: sergeifleet
-  image: nginx
+  image: wwwnginx
 
 service:
   name: sergeifleet
