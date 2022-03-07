@@ -10,7 +10,7 @@ label: sergeifleet
 
 container:
   name: sergeifleet
-  image: ranchertest/mytestcontainer
+  image: nginx
 
 service:
   name: sergeifleet
